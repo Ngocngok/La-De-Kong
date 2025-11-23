@@ -1,0 +1,17 @@
+{
+    "name": "LongDK.Save",
+    "rootNamespace": "LongDK.Save",
+    "references": [
+        "LongDK.Core",
+        "LongDK.Debug"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

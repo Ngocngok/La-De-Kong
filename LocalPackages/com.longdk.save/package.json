@@ -1,0 +1,21 @@
+{
+  "name": "com.longdk.save",
+  "version": "0.1.0",
+  "displayName": "LongDK Save System",
+  "description": "A modular, interface-based save system supporting custom serializers and storage backends.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.longdk.core": "0.1.0",
+    "com.longdk.debug": "0.1.0"
+  },
+  "keywords": [
+    "save",
+    "load",
+    "serialization",
+    "json"
+  ],
+  "author": {
+    "name": "LongDK",
+    "email": "dev@longdk.com"
+  }
+}

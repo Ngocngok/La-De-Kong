@@ -1,0 +1,17 @@
+{
+    "name": "LongDK.Audio",
+    "rootNamespace": "LongDK.Audio",
+    "references": [
+        "LongDK.Core",
+        "LongDK.Debug"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

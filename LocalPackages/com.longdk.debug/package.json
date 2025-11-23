@@ -1,0 +1,19 @@
+{
+  "name": "com.longdk.debug",
+  "version": "0.1.0",
+  "displayName": "LongDK Debug",
+  "description": "A lightweight, conditional logging system for LongDK.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.longdk.core": "0.1.0"
+  },
+  "keywords": [
+    "debug",
+    "log",
+    "logger"
+  ],
+  "author": {
+    "name": "LongDK",
+    "email": "dev@longdk.com"
+  }
+}

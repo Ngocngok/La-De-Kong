@@ -1,0 +1,16 @@
+{
+  "name": "com.longdk.core",
+  "version": "0.1.0",
+  "displayName": "LongDK Core",
+  "description": "Core definitions, rules, and shared interfaces for the LongDK SDK.",
+  "unity": "2021.3",
+  "keywords": [
+    "core",
+    "sdk",
+    "agent"
+  ],
+  "author": {
+    "name": "LongDK",
+    "email": "dev@longdk.com"
+  }
+}

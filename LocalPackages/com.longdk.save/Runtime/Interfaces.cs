@@ -1,0 +1,16 @@
+namespace LongDK.Save
+{
+    public interface ISerializer
+    {
+        string Serialize<T>(T data);
+        T Deserialize<T>(string data);
+    }
+
+    public interface IStorage
+    {
+        void Write(string key, string data);
+        string Read(string key);
+        bool Exists(string key);
+        void Delete(string key);
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "com.longdk.audio",
+  "version": "0.1.0",
+  "displayName": "LongDK Audio",
+  "description": "A modular audio system with Mixer support, 3D spatial audio pooling, and cross-fading.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.longdk.core": "0.1.0",
+    "com.longdk.debug": "0.1.0"
+  },
+  "keywords": [
+    "audio",
+    "sound",
+    "mixer",
+    "spatial"
+  ],
+  "author": {
+    "name": "LongDK",
+    "email": "dev@longdk.com"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "com.longdk.scenes",
+  "version": "0.1.0",
+  "displayName": "LongDK Scene System",
+  "description": "Orchestrates scene transitions with integrated UI loading screens and audio fading.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.longdk.core": "0.1.0",
+    "com.longdk.debug": "0.1.0",
+    "com.longdk.ui": "0.1.0",
+    "com.longdk.audio": "0.1.0"
+  },
+  "keywords": [
+    "scene",
+    "loading",
+    "transition"
+  ],
+  "author": {
+    "name": "LongDK",
+    "email": "dev@longdk.com"
+  }
+}

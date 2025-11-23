@@ -1,0 +1,19 @@
+{
+    "name": "LongDK.Scenes",
+    "rootNamespace": "LongDK.Scenes",
+    "references": [
+        "LongDK.Core",
+        "LongDK.Debug",
+        "LongDK.UI",
+        "LongDK.Audio"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
